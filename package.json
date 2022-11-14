@@ -1,5 +1,5 @@
 {
-  "name": "mm-tools-js",
+  "name": "mm-tools-client-js",
   "version": "1.0.0",
   "description": "Tools for handling the Zawgyi font encoding in Myanmar.",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "zawgyi1",
     "zawgyi-one"
   ],
-  "repository": "KyawNaingTun/myanmar-tools-js-bug-fix",
+  "repository": "KyawNaingTun/mm-tools-client-js",
   "license": "Apache-2.0",
   "devDependencies": {
     "gulp": "^4.0.0",
